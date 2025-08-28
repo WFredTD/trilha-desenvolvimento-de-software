@@ -20,9 +20,12 @@ Aqui você encontrará a organização dos exercícios por módulo/fase da trilh
     * **[Módulo 1: Git e GitHub](fase_1_fundamentos_essenciais/modulo_1_git_e_github/README.md)**
     * **[Módulo 2: Python Essencial](fase_1_fundamentos_essenciais/modulo_2_python_essencial/README.md)**
         * [2.11.1: Decorador de Log e Testes Unitários](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.1_decoradores_e_testes/README.md)
-        * [2.11.2: Expressões Regulares e Manipulação de Strings](#2112-expressoes-regulares-e-manipulacao-de-strings)
-        * [...]
-    * [Módulo 3: SQL Essencial e Excel](fase_1_fundamentos_essenciais/modulo_3_sql_essencial_e_excel/README.md)
+        * [2.11.2: Expressões Regulares e Manipulação de Strings](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.2_expressoes_regulares/README.md)
+        * [2.11.3: Manipulação de Arquivos e Tratamento de Exceções](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.3_arquivos_e_excecoes/README.md)
+        * [2.11.4: Programação Orientada a Objetos (POO)](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.4_poo/README.md)
+        * [2.11.5: Estruturas de Dados Essenciais](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.5_estruturas_de_dados/README.md)
+        * [2.11.6: Módulos e Pacotes](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.6_modulos_e_pacotes/README.md)
+    * [Módulo 3: SQL Essencial](fase_1_fundamentos_essenciais/modulo_3_sql_essencial/README.md)
         * [...]
 
 * **[Fase 2: Desenvolvimento Web com Django](fase_2_desenvolvimento_web_com_django/README.md)**
@@ -69,27 +72,9 @@ Este repositório utiliza o **`uv`** como gerenciador de pacotes e ambientes vir
 6.  **Siga as instruções no `README.md` específico de cada exercício.**
     * Cada pasta de exercício terá seu próprio `README.md` com instruções detalhadas de como rodar o código e quais conceitos foram abordados.
 
-## 📝 Contato
+## 📧 Contato
 
-Walter Friedrich Torres Dreyer
-https://www.linkedin.com/in/walterftdreyer/
-
----
-
-### Módulos e Fases Detalhadas
-
-*(Esta seção terá links âncora para os títulos acima. Por enquanto, é apenas uma estrutura.)*
-
-#### Fase 1: Fundamentos Essenciais
-
-* **[Módulo 1: Git e GitHub para Colaboração](fase_1_fundamentos_essenciais/modulo_1_git_e_github/README.md)**
-    * *Visão Geral:* Cobrirá os fundamentos de sistemas de controle de versão, rastreamento de mudanças e colaboração em projetos de código.
-
-* **[Módulo 2: Python Essencial (Revisão Orientada a Objetos e Estruturas de Dados)](fase_1_fundamentos_essenciais/modulo_2_python_essencial/README.md)**
-    * *Visão Geral:* Aprofundará os conceitos de Python, desde a sintaxe básica até tópicos avançados como POO, módulos, pacotes, expressões regulares e testes unitários.
-
-    * **[2.11.1: Decorador de Log e Testes Unitários](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.1_decoradores_e_testes/README.md)**
-        * *Um exercício prático para aplicar o uso de decoradores, `*args`, `**kwargs`, `functools.wraps` e a escrita de testes unitários com `unittest`.*
-
-    * **[2.11.2: Expressões Regulares e Manipulação de Strings](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.2_expressoes_regulares_e_manipulacao_de_strings/README.md)**
-        * *Próximo conjunto de exercícios para explorar a busca, validação e extração de padrões em texto usando o módulo `re`.*
+<div>
+    <a href = "mailto:fredtorresdreyer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/walterftdreyer/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>

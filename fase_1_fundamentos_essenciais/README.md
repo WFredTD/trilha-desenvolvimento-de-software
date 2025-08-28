@@ -12,8 +12,8 @@ Nesta fase, exploraremos os seguintes módulos de estudo, cada um com seus próp
     * *Visão Geral:* Cobrirá os fundamentos de sistemas de controle de versão, rastreamento de mudanças e colaboração em projetos de código.
 * **[Módulo 2: Python Essencial (Revisão Orientada a Objetos e Estruturas de Dados)](modulo_2_python_essencial/README.md)**
     * *Visão Geral:* Aprofundará os conceitos de Python, desde a sintaxe básica até tópicos avançados como POO, módulos, pacotes, expressões regulares e testes unitários.
-* **[Módulo 3: SQL Essencial (com foco em PostgreSQL e MySQL) e Excel](modulo_3_sql_essencial_e_excel/README.md)**
-    * *Visão Geral:* Introduzirá os fundamentos de bancos de dados relacionais com SQL e o uso essencial da planilha eletrônica Excel para manipulação e análise básica de dados.
+* **[Módulo 3: SQL Essencial](modulo_3_sql_essencial/README.md)**
+    * *Visão Geral:* Introduzirá os fundamentos de bancos de dados relacionais com SQL para manipulação e análise básica de dados.
 
 ## 💡 Projeto Integrador da Fase 1 (PI-F1)
 
