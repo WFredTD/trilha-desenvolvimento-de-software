@@ -1,0 +1,3 @@
+Linha 1: Manipulacao de Arquivos em Python
+Linha 2: É essencial para o desenvolvimento de software.
+Linha 3: O tratamento de exceções garante a robustez do código.
