@@ -26,7 +26,9 @@ Aqui você encontrará a organização dos exercícios por módulo/fase da trilh
         * [2.11.5: Estruturas de Dados Essenciais](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.5_estruturas_de_dados/README.md)
         * [2.11.6: Módulos e Pacotes](fase_1_fundamentos_essenciais/modulo_2_python_essencial/2.11.6_modulos_e_pacotes/README.md)
     * [Módulo 3: SQL Essencial](fase_1_fundamentos_essenciais/modulo_3_sql_essencial/README.md)
-        * [...]
+        * [3.13.1: Criação de um Esquema Básico de DB](fase_1_fundamentos_essenciais/modulo_3_sql_essencial/3.13.1_esquema_basico/README.md)
+        * [3.13.2: CRUD Completo](fase_1_fundamentos_essenciais/modulo_3_sql_essencial/3.13.2_crud/README.md)
+        * [3.13.3: Consultas Avançadas com JOINs e Agregação](fase_1_fundamentos_essenciais/modulo_3_sql_essencial/3.13.3_consultas_avancadas/README.md)
 
 * **[Fase 2: Desenvolvimento Web com Django](fase_2_desenvolvimento_web_com_django/README.md)**
     * [...]
