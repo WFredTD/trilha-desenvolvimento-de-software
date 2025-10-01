@@ -8,7 +8,7 @@ Aqui você encontrará implementações de exercícios modulares, seguindo os pa
 
 Minha jornada de aprendizado é detalhadamente documentada em uma trilha de estudos personalizada no Notion. Nela, você pode acompanhar meu progresso, ver resumos de conceitos, comandos essenciais, e muito mais.
 
-* **Acesse minha Trilha de Estudo Completa aqui:** https://ebony-sphere-7b6.notion.site/Trilha-para-Desenvolvimento-de-Software-20edac67d6178099af40c363dfb90e7a
+* **Acesse minha Trilha de Estudo Completa [aqui](https://ebony-sphere-7b6.notion.site/Trilha-para-Desenvolvimento-de-Software-20edac67d6178099af40c363dfb90e7a)** 
 
 Esta trilha foi projetada para me levar desde os fundamentos de programação e Python até tópicos avançados de desenvolvimento web, automação inteligente, dados e cloud, construindo uma base sólida para uma carreira robusta em tecnologia.
 
@@ -38,6 +38,9 @@ Aqui você encontrará a organização dos exercícios por módulo/fase da trilh
 
 *(Outras fases (e tecnologias, caso necessário) serão adicionadas conforme o progresso da trilha.)*
 
+## Projetos integradores
+
+* Fase 1: [rule_engine](https://github.com/WFredTD/rule_engine)
 
 ## ⚙️ Como Utilizar Este Repositório
 
